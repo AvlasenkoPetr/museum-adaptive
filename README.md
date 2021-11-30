@@ -1,1 +1,1 @@
-https://avlasenkopetr.github.io/museum-adaptive/museum-adaptive/
+https://avlasenkopetr.github.io/museum-adaptive/museum-adaptive/index.html
